@@ -6,7 +6,7 @@
 - Location: Lviv
 - Phones: 0970335527
 - Email: sue.17977@gmail.com
-- Skype: ksenia17977
+- Skype: 0970335527
 
 ## **SUMMARY**
 
