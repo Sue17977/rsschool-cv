@@ -99,4 +99,4 @@ function revrot(str, sz) {
 - Training course on the basics of programming, Logos it academy, 2020
 
 ## **FOREIGN LANGUAGES**
-English – B1
+- English – B1
